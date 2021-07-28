@@ -1,1 +1,1 @@
-# nrc2021-open-polyak
+# nrc2021-reg-polyak
