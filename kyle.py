@@ -1,1 +1,1 @@
-prin()
+prin("hi")
